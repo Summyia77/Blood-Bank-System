@@ -1,0 +1,184 @@
+.logo img {
+    height: 90px;
+    width: 90px;
+    margin-right: 50px;
+}
+
+.first {
+    display: flex;
+    background-color: white;
+    top: 0;
+    position: sticky;
+}
+
+.name {
+    margin-top: 6px;
+    color: black;
+}
+
+.nav {
+    margin-top: 35px;
+    margin-left: 90px;
+}
+
+.nav .item {
+    text-decoration: none;
+    font-size: large;
+    color: black;
+    padding: 15px;
+}
+
+.nav .item:hover {
+    font-weight: bolder;
+    color: red;
+}
+
+.heading {
+    padding-top: 125px;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    margin-left: 800px;
+}
+
+.second {
+    background-image: url("copy-space-medical-desk_23-2148519743.avif");
+    z-index: -9;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 500px;
+    margin-top: 10px;
+}
+
+.third {
+    font-size: x-large;
+    margin: 34px 45px;
+    padding: 34px 45px;
+}
+
+.fourth {
+    background-color: rgb(219, 212, 212);
+    height: 500px;
+    margin: 34px 34px
+}
+
+.fourth h1 {
+    text-align: center;
+    padding-top: 52px;
+}
+
+.columns {
+    display: flex;
+    padding: 45px 45px;
+}
+
+.columns #sub_columns {
+    padding: 20px 20px;
+    text-align: center;
+}
+
+.columns .col-1 img {
+    height: 90px;
+    width: 90px;
+    align-items: center;
+}
+
+.columns .col-2 img {
+    height: 90px;
+    width: 90px;
+    align-items: center;
+}
+
+.columns .col-3 img {
+    height: 90px;
+    width: 90px;
+    align-items: center;
+}
+
+.columns .col-4 img {
+    height: 90px;
+    width: 90px;
+    align-items: center;
+}
+
+.fifth h1 {
+    text-align: center;
+    padding-top: 52px;
+}
+
+.container1 {
+    display: flex;
+    margin: 45px 45px 0px 45px;
+}
+
+.container2 {
+    display: flex;
+    margin: 0px 45px 45px 45px;
+}
+
+.container1 img {
+    height: 90px;
+    width: 90px;
+}
+
+.container2 img {
+    height: 90px;
+    width: 90px;
+}
+
+#boxes {
+    padding: 50px 50px;
+    border-radius: 60px;
+    border: 2px solid rgb(215, 235, 235);
+    background-color: rgb(215, 235, 235);
+    margin: 40px 40px;
+    height: 430px;
+}
+
+.box3 {
+    width: 648px;
+}
+
+#boxes h2 {
+    text-align: center;
+}
+
+#boxes ul li {
+    font-size: 20px;
+}
+
+.blood-quotes img {
+    height: 392px;
+    width: 1341px;
+}
+
+.sixth {
+    display: flex;
+    height: 260px;
+    margin: 91px 117px;
+}
+
+.presence {
+    margin: 50px 50px;
+}
+
+.presence p {
+    font-size: large;
+}
+
+.image {
+    box-shadow: 9px 9px 9px 5px grey;
+}
+
+.image img {
+    height: 259px;
+    width: 511px;
+}
+
+.copyright {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: larger;
+}

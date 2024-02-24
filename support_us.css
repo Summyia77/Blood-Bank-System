@@ -1,0 +1,115 @@
+    .logo img {
+        height: 90px;
+        width: 90px;
+        margin-right: 50px;
+    }
+    
+    .first {
+        display: flex;
+        background-color: white;
+        top: 0;
+        position: sticky;
+    }
+    
+    .name {
+        margin-top: 6px;
+        color: black;
+    }
+    
+    .nav {
+        margin-top: 35px;
+        margin-left: 90px;
+    }
+    
+    .nav .item {
+        text-decoration: none;
+        font-size: large;
+        color: black;
+        padding: 15px;
+    }
+    
+    .nav .item:hover {
+        font-weight: bolder;
+        color: red;
+    }
+    
+    .second {
+        margin-top: 10px;
+        display: flex;
+    }
+    
+    .second img {
+        width: 500px;
+        height: 310px;
+    }
+    
+    .second .text {
+        padding: 45px 34px;
+        background-color: rgb(238, 235, 235);
+    }
+    
+    .support {
+        text-align: center;
+        padding: 35px 34px;
+        background-color: rgb(238, 235, 235);
+        margin: 56px 0px;
+    }
+    
+    .support-ways1 {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .support-ways2 {
+        display: flex;
+        justify-content: center;
+    }
+    
+    #support_ways_options img {
+        height: 185px;
+        width: 324px;
+    }
+    
+    #support_ways_options {
+        padding: 34px 34px;
+        text-align: center;
+        background-color: rgb(223, 219, 219);
+        margin: 20px 14px;
+        box-shadow: 9px 9px 9px 9px gray;
+    }
+    
+    #support_ways_options h1 {
+        font-size: 25px;
+        padding: 4px 10px;
+    }
+    
+    #support_ways_options a {
+        border: 2px solid red;
+        padding: 10px 10px;
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+    }
+    
+    #support_ways_options a:hover {
+        background-color: rgb(106, 106, 243);
+        border: none;
+        color: white;
+    }
+    
+    #support_ways_options:hover {
+        margin-top: 8px;
+        margin-bottom: 5px;
+    }
+    
+    .main {
+        background-color: rgb(238, 235, 235);
+        padding: 30px 30px;
+    }
+    
+    .copyright {
+        text-align: center;
+        color: white;
+        background-color: black;
+        font-size: larger;
+    }

@@ -1,0 +1,119 @@
+.logo img {
+    height: 90px;
+    width: 90px;
+    margin-right: 50px;
+}
+
+.first {
+    display: flex;
+    background-color: white;
+    top: 0;
+    position: sticky;
+}
+
+.name {
+    margin-top: 6px;
+    color: black;
+}
+
+.nav {
+    margin-top: 35px;
+    margin-left: 90px;
+}
+
+.nav .item {
+    text-decoration: none;
+    font-size: large;
+    color: black;
+    padding: 15px;
+}
+
+.nav .item:hover {
+    font-weight: bolder;
+    color: red;
+}
+
+.second {
+    display: flex;
+    margin-top: 10px;
+}
+
+.second img {
+    width: 339px;
+    height: 285px;
+}
+
+.fifth {
+    display: flex;
+    margin-top: 90px;
+}
+
+.call {
+    height: 500px;
+    width: 664px;
+    background-color: rgb(98, 98, 248);
+    color: white;
+    padding: 31px 63px;
+}
+
+.call p {
+    font-size: 20px;
+}
+
+.call button {
+    border: 2px solid white;
+    background: transparent;
+    color: white;
+    font-size: 15px;
+    padding: 20px 60px;
+    margin-top: 40px;
+}
+
+.call button:hover {
+    background-color: white;
+    color: red;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+.form_heading p {
+    font-size: larger;
+}
+
+.form_heading {
+    margin: 6px 96px;
+    padding: 34px 34px;
+    color: black;
+}
+
+.form_heading input {
+    width: 497px;
+    margin: 10px 10px;
+    padding: 17px 10px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.form_heading button {
+    width: 520px;
+    margin: 10px 10px;
+    padding: 17px 17px;
+    color: red;
+    border: 2px solid red;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.form_heading button:hover {
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.copyright {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: larger;
+}
